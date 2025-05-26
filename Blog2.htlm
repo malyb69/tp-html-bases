@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Blog animalier - Le chat domestique</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Blog animalier</h1>
+    <p class="slogan">Les meilleurs articles sur vos animaux préférés</p>
+    <img src="chat.jpg" alt="Photo d'un chat" class="header-image">
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#">Accueil</a></li>
+      <li><a href="#">Chats</a></li>
+      <li><a href="#Contact2">Contact</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section>
+      <article>
+        <h2>Le chat domestique</h2>
+        <p><strong>Publié le 23 mai 2025</strong> par Pierre Henry</p>
+        <p>
+          Le chat domestique est une sous-espèce de félin issue du chat sauvage africain (<em>Felis silvestris lybica</em>).
+          Il existe une cinquantaine de races formées depuis le Néolithique. Des hybrides comme le Savannah (issu du serval 
+          <em>Leptailurus serval</em>) ont aussi été créés.
+          Pour en savoir plus, visitez 
+          <a href="https://fr.wikipedia.org/wiki/Chat" target="_blank">cet article</a>.
+        </p>
+      </article>
+    </section>
+
+    <section>
+      <article>
+        <h3>Description physique</h3>
+        <p><strong>Publié le 22 mai 2025</strong> par Matt Anderson</p>
+        <p>
+          Le chat est un mammifère de la famille des félidés. Il pèse entre 2,5 et 4,5 kg et mesure jusqu’à 76 cm avec la queue.
+          Ses pattes possèdent des griffes rétractiles et des coussinets élastiques, permettant un déplacement silencieux.
+          Le pelage varie selon les races. 
+          <a href="https://www.chat-biodiversite.fr/combien-de-chats-en-france.html" target="_blank">Voir plus</a>.
+        </p>
+      </article>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Mon Blog</p>
+  </footer>
+
+  <a href="#Contact2" class="contact-btn">Contact</a>
+
+</body>
+</html>
+
+      
+
+
